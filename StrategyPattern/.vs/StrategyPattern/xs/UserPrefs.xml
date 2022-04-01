@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D17D8DAD-CBC9-4239-932A-D9449C2E79C0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrategyPattern/Ticket.cs">
+    <Files>
+      <File FileName="StrategyPattern/NoDiscountStrategy.cs" Line="8" Column="49" />
+      <File FileName="StrategyPattern/QuarterDiscountStrategy.cs" Line="8" Column="33" />
+      <File FileName="StrategyPattern/HalfDiscountStrategy.cs" Line="8" Column="32" />
+      <File FileName="StrategyPattern/Program.cs" Line="12" Column="1" />
+      <File FileName="StrategyPattern/Ticket.cs" Line="18" Column="10" />
+      <File FileName="StrategyPattern/IPromoteStrategy.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StrategyPattern" expanded="True">
+            <Node name="StrategyPattern" expanded="True">
+              <Node name="Ticket.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StrategyPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

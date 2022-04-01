@@ -1,0 +1,1 @@
+Strategy Design Pattern: Tap hop cac thuat toan co lien quan den nhau, khong bi anh huong vao cac object su dung no
