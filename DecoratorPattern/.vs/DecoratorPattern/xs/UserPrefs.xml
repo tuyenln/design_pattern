@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{59EE9E91-1FC3-4608-9844-8956860A79B5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratorPattern/Program.cs">
+    <Files>
+      <File FileName="DecoratorPattern/Decorators/Bubble.cs" Line="14" Column="38" />
+      <File FileName="DecoratorPattern/Decorators/BlackSugar.cs" Line="14" Column="21" />
+      <File FileName="DecoratorPattern/Decorators/EggPudding.cs" Line="14" Column="21" />
+      <File FileName="DecoratorPattern/Decorators/FruilPudding.cs" Line="14" Column="21" />
+      <File FileName="DecoratorPattern/Decorators/WhiteBubble.cs" Line="14" Column="20" />
+      <File FileName="DecoratorPattern/Program.cs" Line="9" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DecoratorPattern" expanded="True">
+            <Node name="DecoratorPattern" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Decorators" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DecoratorPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

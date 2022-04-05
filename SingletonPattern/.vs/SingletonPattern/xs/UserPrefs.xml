@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/PersionSingleton.cs">
     <Files>
-      <File FileName="SingletonPattern/Program.cs" Line="15" Column="29" />
-      <File FileName="SingletonPattern/PersionSingleton.cs" Line="6" Column="26" />
+      <File FileName="SingletonPattern/Program.cs" Line="14" Column="29" />
+      <File FileName="SingletonPattern/PersionSingleton.cs" Line="8" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
