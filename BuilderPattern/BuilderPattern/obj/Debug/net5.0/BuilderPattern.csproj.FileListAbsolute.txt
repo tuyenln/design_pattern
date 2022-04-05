@@ -1,0 +1,16 @@
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern.deps.json
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.json
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern.runtimeconfig.dev.json
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern.dll
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern.pdb
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csproj.AssemblyReference.cache
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfoInputs.cache
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.AssemblyInfo.cs
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.csproj.CoreCompileInputs.cache
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.dll
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/ref/BuilderPattern.dll
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.pdb
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/BuilderPattern.genruntimeconfig.cache
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/bin/Debug/net5.0/BuilderPattern
+/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/obj/Debug/net5.0/refint/BuilderPattern.dll

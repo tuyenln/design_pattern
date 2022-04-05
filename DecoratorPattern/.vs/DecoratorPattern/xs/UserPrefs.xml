@@ -6,7 +6,7 @@
       <File FileName="DecoratorPattern/Decorators/EggPudding.cs" Line="14" Column="21" />
       <File FileName="DecoratorPattern/Decorators/FruilPudding.cs" Line="14" Column="21" />
       <File FileName="DecoratorPattern/Decorators/WhiteBubble.cs" Line="14" Column="20" />
-      <File FileName="DecoratorPattern/Program.cs" Line="9" Column="47" />
+      <File FileName="DecoratorPattern/Program.cs" Line="17" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DecoratorPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DecoratorPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

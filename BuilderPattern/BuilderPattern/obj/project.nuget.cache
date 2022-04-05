@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTAGHh2WQhOr/3IDrN7IFif2lAF/HZL5r0Ft5AiOhAx0CRrIMQn34VbUmitBr8ZM03eEvkVUcWEUzhYESGh8yg==",
+  "success": true,
+  "projectFilePath": "/Users/tuyenln/workspace/design_pattern/BuilderPattern/BuilderPattern/BuilderPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuyenln/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/tuyenln/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/tuyenln/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

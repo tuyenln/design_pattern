@@ -5,3 +5,5 @@ Observer Design Pattern: Tao ra moi quan he 1 nhieu giua cac object voi nhau de 
 Singleton: Class chi co 1 the hien duy nhat trong ung dung, va co the truy cap bat ky dau
 
 Decorator Design parttern: Them cac hanh vi hoac thuoc tinh vao object on runtime
+
+Builder Design Pattern: Cho phep chia nho 1 constructor thanh nhieu phan nho hon co kha nang khoi tao nhieu object theo nhieu huong khac nhau
