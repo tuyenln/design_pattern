@@ -1,0 +1,15 @@
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.deps.json
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.runtimeconfig.json
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.runtimeconfig.dev.json
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.dll
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/ref/FactoryMethodPattern.dll
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/bin/Debug/net5.0/FactoryMethodPattern.pdb
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.csproj.AssemblyReference.cache
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.AssemblyInfoInputs.cache
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.AssemblyInfo.cs
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.csproj.CoreCompileInputs.cache
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.dll
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/ref/FactoryMethodPattern.dll
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.pdb
+/Users/tuyenln/workspace/design_pattern/FactoryMethodPattern/FactoryMethodPattern/obj/Debug/net5.0/FactoryMethodPattern.genruntimeconfig.cache

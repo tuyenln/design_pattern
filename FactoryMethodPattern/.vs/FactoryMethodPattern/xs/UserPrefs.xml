@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6D8D9BA0-D00E-4004-AD90-3DCF0990649F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Factory/BasicAnimalFactory.cs">
+    <Files>
+      <File FileName="FactoryMethodPattern/Program.cs" Line="32" Column="49" />
+      <File FileName="FactoryMethodPattern/Animal/Cat.cs" Line="8" Column="31" />
+      <File FileName="FactoryMethodPattern/Animal/Dog.cs" Line="8" Column="31" />
+      <File FileName="FactoryMethodPattern/Animal/Duck.cs" Line="9" Column="32" />
+      <File FileName="FactoryMethodPattern/Animal/IAnimal.cs" Line="6" Column="26" />
+      <File FileName="FactoryMethodPattern/Factory/BasicAnimalFactory.cs" Line="13" Column="13" />
+      <File FileName="FactoryMethodPattern/Factory/RandomAnimalFactory.cs" Line="19" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethodPattern" expanded="True">
+            <Node name="FactoryMethodPattern" expanded="True">
+              <Node name="Animal" expanded="True" />
+              <Node name="Factory" expanded="True">
+                <Node name="BasicAnimalFactory.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethodPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

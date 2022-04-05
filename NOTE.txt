@@ -7,3 +7,5 @@ Singleton: Class chi co 1 the hien duy nhat trong ung dung, va co the truy cap b
 Decorator Design parttern: Them cac hanh vi hoac thuoc tinh vao object on runtime
 
 Builder Design Pattern: Cho phep chia nho 1 constructor thanh nhieu phan nho hon co kha nang khoi tao nhieu object theo nhieu huong khac nhau
+
+Factory Method Pattern: Dinh nghia ra 1 interface de khoi tao object nhung no de subclass, class con implement inteface quyet dinh class nao se khoi tao object nay
