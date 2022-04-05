@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F8F31DCD-7CD5-4EAD-93D0-612E78702596}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommandPattern/TurnOnCommand.cs">
+    <Files>
+      <File FileName="CommandPattern/Program.cs" Line="12" Column="63" />
+      <File FileName="CommandPattern/ICommand.cs" Line="8" Column="21" />
+      <File FileName="CommandPattern/Remote.cs" Line="23" Column="10" />
+      <File FileName="CommandPattern/Fan.cs" Line="13" Column="40" />
+      <File FileName="CommandPattern/TurnOnCommand.cs" Line="15" Column="27" />
+      <File FileName="CommandPattern/TurnOffCommand.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommandPattern" expanded="True">
+            <Node name="CommandPattern" expanded="True">
+              <Node name="TurnOnCommand.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CommandPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
