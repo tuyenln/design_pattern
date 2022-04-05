@@ -1,9 +1,9 @@
 ﻿using System;
 namespace FactoryMethodPattern.Animal
 {
-    public class Dog : IAnimal
+    public class Dog : FourLegAnimal
     {
-        public string getName()
+        public override string getName()
         {
             return "I am DOG";
         }

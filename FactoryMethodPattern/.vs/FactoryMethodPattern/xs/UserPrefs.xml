@@ -1,22 +1,29 @@
 ﻿<Properties StartupConfiguration="{6D8D9BA0-D00E-4004-AD90-3DCF0990649F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Factory/BasicAnimalFactory.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Factory/IAnimalFactory.cs">
     <Files>
-      <File FileName="FactoryMethodPattern/Program.cs" Line="32" Column="49" />
+      <File FileName="FactoryMethodPattern/Program.cs" Line="12" Column="19" />
       <File FileName="FactoryMethodPattern/Animal/Cat.cs" Line="8" Column="31" />
-      <File FileName="FactoryMethodPattern/Animal/Dog.cs" Line="8" Column="31" />
+      <File FileName="FactoryMethodPattern/Animal/Dog.cs" Line="6" Column="41" />
       <File FileName="FactoryMethodPattern/Animal/Duck.cs" Line="9" Column="32" />
       <File FileName="FactoryMethodPattern/Animal/IAnimal.cs" Line="6" Column="26" />
-      <File FileName="FactoryMethodPattern/Factory/BasicAnimalFactory.cs" Line="13" Column="13" />
-      <File FileName="FactoryMethodPattern/Factory/RandomAnimalFactory.cs" Line="19" Column="19" />
+      <File FileName="FactoryMethodPattern/Factory/BasicAnimalFactory.cs" Line="26" Column="35" />
+      <File FileName="FactoryMethodPattern/Factory/RandomAnimalFactory.cs" Line="22" Column="14" />
+      <File FileName="FactoryMethodPattern/Animal/TwoLegAnimal.cs" Line="4" Column="12" />
+      <File FileName="FactoryMethodPattern/Animal/FourLegAnimal.cs" Line="6" Column="42" />
+      <File FileName="FactoryMethodPattern/AbstractFactory/AbstractAnimalFactory.cs" Line="7" Column="13" />
+      <File FileName="FactoryMethodPattern/AbstractFactory/TwoLegsAnimalFactory.cs" Line="18" Column="14" />
+      <File FileName="FactoryMethodPattern/AbstractFactory/FourLegsAnimalFactory.cs" Line="19" Column="6" />
+      <File FileName="FactoryMethodPattern/Factory/IAnimalFactory.cs" Line="8" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FactoryMethodPattern" expanded="True">
             <Node name="FactoryMethodPattern" expanded="True">
+              <Node name="AbstractFactory" expanded="True" />
               <Node name="Animal" expanded="True" />
               <Node name="Factory" expanded="True">
-                <Node name="BasicAnimalFactory.cs" selected="True" />
+                <Node name="IAnimalFactory.cs" selected="True" />
               </Node>
             </Node>
           </Node>

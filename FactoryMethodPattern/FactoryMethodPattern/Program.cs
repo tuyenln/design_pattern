@@ -1,4 +1,5 @@
 ﻿using System;
+using FactoryMethodPattern.AbstractFactory;
 using FactoryMethodPattern.Animal;
 using FactoryMethodPattern.Factory;
 
@@ -15,21 +16,19 @@ namespace FactoryMethodPattern
 
             if (type == 0)
             {
-                factory = new BasicAnimalFactory();
+                factory = new FourLegsAnimalFactory();
             }
             else
             {
-                factory = new RandomAnimalFactory();
+                factory = new TwoLegsAnimalFactory();
             }
 
-            //IAnimal animal = factory.createAnimal();
+            Console.WriteLine(factory.createAnimal().getName());
+            Console.WriteLine(factory.createAnimal().getName());
+            Console.WriteLine(factory.createAnimal().getName());
+            Console.WriteLine(factory.createAnimal().getName());
+            Console.WriteLine(factory.createAnimal().getName());
 
-            Console.WriteLine(factory.createAnimal().getName());
-            Console.WriteLine(factory.createAnimal().getName());
-            Console.WriteLine(factory.createAnimal().getName());
-            Console.WriteLine(factory.createAnimal().getName());
-            Console.WriteLine(factory.createAnimal().getName());
-            Console.WriteLine(factory.createAnimal().getName());
         }
     }
 }

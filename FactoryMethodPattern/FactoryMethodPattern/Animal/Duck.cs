@@ -1,10 +1,10 @@
 ﻿using System;
 namespace FactoryMethodPattern.Animal
 {
-    public class Duck : IAnimal
+    public class Duck : TwoLegAnimal
     {
 
-        public string getName()
+        public override string getName()
         {
             return "I am DUCK";
         }
