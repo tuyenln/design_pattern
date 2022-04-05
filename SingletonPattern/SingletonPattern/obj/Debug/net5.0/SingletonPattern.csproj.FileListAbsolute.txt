@@ -1,0 +1,15 @@
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.deps.json
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.json
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.runtimeconfig.dev.json
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.dll
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/ref/SingletonPattern.dll
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/bin/Debug/net5.0/SingletonPattern.pdb
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.AssemblyReference.cache
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfoInputs.cache
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.AssemblyInfo.cs
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.csproj.CoreCompileInputs.cache
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.dll
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/ref/SingletonPattern.dll
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.pdb
+/Users/tuyenln/workspace/design_pattern/SingletonPattern/SingletonPattern/obj/Debug/net5.0/SingletonPattern.genruntimeconfig.cache

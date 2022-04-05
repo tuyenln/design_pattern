@@ -1,1 +1,5 @@
 Strategy Design Pattern: Tap hop cac thuat toan co lien quan den nhau, khong bi anh huong vao cac object su dung no
+
+Observer Design Pattern: Tao ra moi quan he 1 nhieu giua cac object voi nhau de cho khi 1 object thay doi trang thai  thi cac object phu thuoc vao no se dc thong bao va cap nhat tu dong
+
+Singleton: Class chi co 1 the hien duy nhat trong ung dung, va co the truy cap bat ky dau

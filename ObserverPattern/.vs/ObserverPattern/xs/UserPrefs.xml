@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{66A5E73C-59EB-4C2F-9CCC-C05146F7D9A7}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObserverPattern" expanded="True">
+            <Node name="ObserverPattern" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Notifiers" expanded="True">
+                <Node name="FacebookNotifier.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ObserverPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

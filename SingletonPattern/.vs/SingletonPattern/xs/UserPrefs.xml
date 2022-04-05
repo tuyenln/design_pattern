@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6DC7658A-8C33-4AC8-8B64-22EC1B3BE2FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/PersionSingleton.cs">
+    <Files>
+      <File FileName="SingletonPattern/Program.cs" Line="15" Column="29" />
+      <File FileName="SingletonPattern/PersionSingleton.cs" Line="6" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SingletonPattern" expanded="True">
+            <Node name="SingletonPattern" expanded="True">
+              <Node name="PersionSingleton.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
