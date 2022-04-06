@@ -14,3 +14,7 @@ Abstract Factory;
 
 
 Command design pattern: Dong goi request duoi dang object, co the truyen tham so trong cac context khac nhau, co the undo
+
+Adapter pattern: Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+
+Proxy Pattern: Dùng để limuit sự access đến resource nào đó

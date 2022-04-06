@@ -1,0 +1,15 @@
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.deps.json
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.json
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.runtimeconfig.dev.json
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.dll
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/ref/AdapterPattern.dll
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/bin/Debug/net5.0/AdapterPattern.pdb
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.AssemblyReference.cache
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfoInputs.cache
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.AssemblyInfo.cs
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.csproj.CoreCompileInputs.cache
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.dll
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/ref/AdapterPattern.dll
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.pdb
+/Users/tuyenln/workspace/design_pattern/AdapterPattern/AdapterPattern/obj/Debug/net5.0/AdapterPattern.genruntimeconfig.cache
